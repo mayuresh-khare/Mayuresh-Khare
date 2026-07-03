@@ -1,5 +1,3 @@
-# Vegetation-Recovery-Rate-After-Wildfire
-
 ![](Github.jpg)
 <h1 align="center">Hi 👋, I'm Mayuresh Khare</h1>
 <h3 align="center">A Passionate Computer Engineer</h3>
